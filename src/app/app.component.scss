@@ -1,0 +1,13 @@
+mat-drawer-container {
+  height: 100vh;
+
+  mat-drawer-content {
+    @apply p-8;
+  }
+
+  mat-drawer {
+    width: 250px;
+  }
+}
+
+
