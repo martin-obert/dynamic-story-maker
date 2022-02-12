@@ -1,3 +1,33 @@
+# Project Description
+
+## Stories
+- just text with flavored assets within
+
+## Time tracker
+- not like hours, but rather 1/4 day < Days < Weeks < Months < Years
+
+## Assets
+- divided by Types: NPC, Buildings, Zones, Encounter (link to Beyond)
+- consider defaults for each type as flag or tag
+
+### NPC
+- UUID as default reference
+- system name (replaces generated UUID) for better readability
+- display name
+- link to Beyond or some stats for quick reference
+
+### Dialogues
+- bound tot NPCs mainly, no obligatory chats like "Hello", "Good day" etc., these should be related to the main story
+
+### Tags
+- attachable to assets and stories, tags have values (string|number|guid)
+- consider pre-defined tags (default)
+
+## Background events
+- this should keep players in the story
+- depends on the "time tracker" feature
+- 
+
 # DynamicStoryMaker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
