@@ -23,6 +23,12 @@
 - attachable to assets and stories, tags have values (string|number|guid)
 - consider pre-defined tags (default)
 
+## Zones
+- zones should be explorable
+- each zone should define exploration progress based on its difficulty, from range 1 - 3 for easy ones (or those that group has some perks), to 1 - 9 for extremly difficult
+- towns and common stuff should have default buildings like tavern, shop, town hall etc explored on lvl 1 max 2
+- each new level of exploration will cost time (1/4 of day)
+
 ## Background events
 - this should keep players in the story
 - depends on the "time tracker" feature
